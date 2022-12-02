@@ -32,7 +32,7 @@ module.exports = {
                 },
                 nav: [
                     { text: 'Github', link: 'https://github.com/shuaninfo/sqldev' },
-                    { text: '产品官网', link: 'http://sqldev.info/' }
+                    { text: '产品官网', link: 'https://sqldev.info/' }
                 ],
                 sidebar:[
                     '/',
@@ -164,7 +164,7 @@ module.exports = {
                 },
                 nav: [
                     { text: 'Github', link: 'https://github.com/shuaninfo/sqldev' },
-                    { text: 'Official Website', link: 'http://sqldev.info/' }
+                    { text: 'Website', link: 'https://sqldev.info/' }
                 ],
                 sidebar:[
                     '/en/',
