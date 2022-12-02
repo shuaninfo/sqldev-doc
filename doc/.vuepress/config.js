@@ -36,7 +36,6 @@ module.exports = {
                 ],
                 sidebar:[
                     '/',
-                    '/升级日志',
                     {
                         title:'开始',
                         children:[
@@ -61,6 +60,22 @@ module.exports = {
                     {
                         title:'使用',
                         children:[
+                            {
+                                title:'数据源',
+                                path:'/使用/数据源'
+                            },
+                            {
+                                title:'用户',
+                                path:'/使用/用户'
+                            },
+                            {
+                                title:'项目',
+                                path:'/使用/项目'
+                            },
+                            {
+                                title:'角色',
+                                path:'/使用/角色'
+                            },
                             {
                                 title:'工作区',
                                 initialOpenGroupIndex: -1,
@@ -130,25 +145,10 @@ module.exports = {
                                         path:'/使用/工作区/表筛选'
                                     }
                                 ]
-                            },
-                            {
-                                title:'数据源',
-                                path:'/使用/数据源'
-                            },
-                            {
-                                title:'用户',
-                                path:'/使用/用户'
-                            },
-                            {
-                                title:'项目',
-                                path:'/使用/项目'
-                            },
-                            {
-                                title:'角色',
-                                path:'/使用/角色'
                             }
                         ]
-                    }
+                    },
+                    '/升级日志',
                 ]
             },
             '/en/':{
@@ -168,7 +168,6 @@ module.exports = {
                 ],
                 sidebar:[
                     '/en/',
-                    '/en/UpgradeLog',
                     {
                         title:'Start',
                         children:[
@@ -193,6 +192,22 @@ module.exports = {
                     {
                         title:'Usage',
                         children:[
+                            {
+                                title:'Data Source',
+                                path:'/en/Usage/DataSource'
+                            },
+                            {
+                                title:'Users',
+                                path:'/en/Usage/Users'
+                            },
+                            {
+                                title:'Projects',
+                                path:'/en/Usage/Projects'
+                            },
+                            {
+                                title:'Roles',
+                                path:'/en/Usage/Roles'
+                            },
                             {
                                 title:'Workspace',
                                 initialOpenGroupIndex: -1,
@@ -262,25 +277,10 @@ module.exports = {
                                         path:'/en/Usage/Workspace/TableFilter'
                                     }
                                 ]
-                            },
-                            {
-                                title:'Data Source',
-                                path:'/en/Usage/DataSource'
-                            },
-                            {
-                                title:'Users',
-                                path:'/en/Usage/Users'
-                            },
-                            {
-                                title:'Projects',
-                                path:'/en/Usage/Projects'
-                            },
-                            {
-                                title:'Roles',
-                                path:'/en/Usage/Roles'
                             }
                         ]
-                    }
+                    },
+                    '/en/UpgradeLog',
                 ]
             }
         }
