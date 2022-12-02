@@ -167,7 +167,7 @@ module.exports = {
                 },
                 nav: [
                     { text: 'Github', link: 'https://github.com/shuaninfo/sqldev' },
-                    { text: 'Website', link: 'https://sqldev.info/' }
+                    { text: 'Website', link: 'https://sqldev.info/en' }
                 ],
                 sidebar:[
                     '/en/',
