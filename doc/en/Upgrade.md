@@ -1,4 +1,4 @@
-# Upgrade Log
+# Upgrade
 ## [v2.2.60] - 2022-11-09
 
 ## Fix

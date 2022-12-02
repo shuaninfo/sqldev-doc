@@ -151,7 +151,7 @@ module.exports = {
                             }
                         ]
                     },
-                    '/升级日志',
+                    '/更新日志',
                 ]
             },
             '/en/':{
@@ -283,7 +283,7 @@ module.exports = {
                             }
                         ]
                     },
-                    '/en/UpgradeLog',
+                    '/en/Upgrade',
                 ]
             }
         }
