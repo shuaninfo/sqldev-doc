@@ -1,5 +1,8 @@
 module.exports = {
     base: '/sqldevdoc/',
+    head:[
+        ['link',{rel:'icon', href:'/img/favicon.ico'}]
+    ],
     locales:{
         '/':{
             lang:'zh-CN',
