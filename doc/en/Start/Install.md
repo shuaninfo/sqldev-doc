@@ -1,5 +1,13 @@
 # Install
 
+#### one-click installation script
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/shuaninfo/sqldev-community-install/master/install.sh)"
+```
+
+Alternatively, you can refer to the following for a manual installation
+
 ##### default installation directory
 
 ```
