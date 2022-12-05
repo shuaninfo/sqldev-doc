@@ -41,46 +41,31 @@ The problem of data privacy is solved by fine-grained permission control, which 
 * Real-time data source performance monitoring, event alert notification.
 
 
-* #### Main Features
+#### Main Features
 
-- SQL
+- Execution of SQL (DQL/DML/DDL/TCL)
 
-- DQL
-- DML
-- DDL
-- Data export
+- Data import/export
+
 - Auto-completion, intelligent prompting
-- Statement auditing
-- Asynchronous query
-- Dynamic desensitization
 
-- Push
+- Auditing, interception, alerting
 
-- E-mail push
+- Dynamic desensitization of sensitive data
 
-- User rights and management
+- Alarm notification (MAIL, SMS, IM)
 
-- Multi-role
-- Fine-grained permissions down to the field level
-- Query, modify, export can be independently assigned
+- Fine-grained permission control (field-level/line-level control)
 
-- Work Orders
+- Support multi-project and multi-role
 
-- Auditing
-- Processes
+- Support custom work order trigger scenarios and audit process
 
-- Project Groups
+- Support for database engines: Oracle, MySQL, MongoDB, MS SQL, DB2, TDEngine, Hive, Redis, DaMeng, TIDB, ClickHouse, Greenplum, MariaDB, etc.
 
-- Adaptation
+- Support deployment environment: own server room, Ali cloud, aws, Tencent cloud
 
-- Engine: Oracle, MySQL, MongoDB, MS SQL, DB2, TDEngine, Hive, Redis, DaMeng, TIDB, ClickHouse, Greenplum, MariaDB
-- Environment: own server room, Ali cloud, aws, Tencent cloud
-
-- Integration
-
-- CAS login
-- LDAP login
-- OAUTH2 login
+- Support integrated third-party login (CAS/LDAP/OAUTH2)
 
 
 

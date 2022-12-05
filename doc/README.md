@@ -41,46 +41,33 @@ SQLDEV(SQL Developer)是一款数据访问、数据脱敏、权限管控、操�
 * 实时数据源性能监控，事件告警通知。
 
 
-* #### 主要功能
+#### 主要功能
 
-- SQL
+- 执行SQL(DQL/DML/DDL/TCL)
 
-- DQL
-- DML
-- DDL
-- 数据导出
+- 数据导入/导出
+
 - 自动补全，智能提示
-- 语句审计
-- 异步查询
-- 动态脱敏
 
-- 推送
+- 审计、拦截、告警
 
-- E-mail推送
+- 敏感数据动态脱敏
 
-- 用户权限及管理
+- 告警通知(MAIL、短信、IM)
 
-- 多角色
-- 细粒度权限到字段级别
-- 查询、修改、导出可独立赋权
+- 细粒度权限管控（字段级别/行级管控）
 
-- 工单
+- 支持多项目多角色
 
-- 审计
-- 流程
+- 支持定制工单触发场景和审核流程
 
-- 项目组
+- 支持数据库引擎：Oracle、MySQL、MongoDB、MS SQL、DB2、TDEngine、Hive、Redis、DaMeng、TIDB、ClickHouse、Greenplum、MariaDB 等
 
-- 适配
+- 支持部署环境：自有机房、阿里云、aws、腾讯云
 
-- 引擎：Oracle、MySQL、MongoDB、MS SQL、DB2、TDEngine、Hive、Redis、DaMeng、TIDB、ClickHouse、Greenplum、MariaDB
-- 环境：自有机房、阿里云、aws、腾讯云
+- 支持信创环境及中间件部署
 
-- 集成
-
-- CAS登录
-- LDAP登录
-- OAUTH2登录
+- 支持集成第三方登录（CAS/LDAP/OAUTH2)
 
 
 
