@@ -1,4 +1,21 @@
 # Upgrade
+## Fix
+* Fix the format conversion problem of file import.
+* Fix the problem of upgrade failure caused by the non-existence of folder during online upgrade.
+* Fix the problem of conflicting CHARACTER keywords in Oracle database.
+* Fix the error of PostgresSQL showing creation statement.
+* Repair the problem that some DML statements cannot get the number of affected rows correctly.
+
+
+## Update
+* Support flashback of DML operations, (Oracle/MySQL/PostgresSQL/MSSQL).
+* Optimize file import performance.
+* Data source management module supports multi-view display and optimizes query function.
+* Support manual auditing of failed parsing scripts.
+* SQL editor interaction optimization.
+
+
+
 ## [v2.2.60] - 2022-11-09
 
 ## Fix
