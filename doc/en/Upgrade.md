@@ -1,4 +1,5 @@
 # Upgrade
+## [v2.2.61] - 2022-12-05
 ## Fix
 * Fix the format conversion problem of file import.
 * Fix the problem of upgrade failure caused by the non-existence of folder during online upgrade.
