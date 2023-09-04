@@ -51,11 +51,11 @@ module.exports = {
                                 path:'/开始/配置'
                             },
                             {
-                                title:'更新',
+                                title:'手动更新',
                                 path:'/开始/手动更新'
                             },
                             {
-                                title:'更新',
+                                title:'在线更新',
                                 path:'/开始/在线更新'
                             },
                             {
