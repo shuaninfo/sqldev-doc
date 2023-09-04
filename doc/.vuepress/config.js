@@ -52,7 +52,11 @@ module.exports = {
                             },
                             {
                                 title:'更新',
-                                path:'/开始/更新'
+                                path:'/开始/手动更新'
+                            },
+                            {
+                                title:'更新',
+                                path:'/开始/在线更新'
                             },
                             {
                                 title:'许可',
