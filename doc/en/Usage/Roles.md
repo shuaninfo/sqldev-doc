@@ -50,7 +50,9 @@ Click the role name to expand the list of data sources associated with the curre
 
 Click the role to expand the data source associated with the current role, select "Sensitive" on the corresponding field, select the desensitization method in the popup window and click the button to submit.
 
-Select the desensitization method in the pop-up window and click the button to submit. [image-20210817134512969](./img/role6.png)
+Select the desensitization method in the pop-up window and click the button to submit.
+
+![image-20210817134512969](./img/role6.png)
 <center>Figure: Field desensitization diagram</center>
 
 After setting up, cut back to the query page and check the query results, the fields have been desensitized and displayed.

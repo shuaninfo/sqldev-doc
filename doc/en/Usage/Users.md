@@ -19,12 +19,12 @@
 
 
 
-##### Modify user
+##### Edit user
 
 > Operation.
-> Modify
-> 1. Click the "Modify" button.
-> 1. Click the "Modify" button.
+> Edit
+> 1. Click the "Edit" button.
+> 1. Click the "Edit" button.
 > 2. pop-up box: modify, name, system role, as follows.
 
 ![image-20201207180916853](./img/user2.png)
