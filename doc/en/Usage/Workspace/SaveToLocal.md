@@ -14,8 +14,6 @@
 
 ![Save to local](./img/save1.png)
 
-![Save to local](./img/save2.png)
-
 <center>Figure: Save SQL Figure</center>
 
 
