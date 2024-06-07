@@ -189,10 +189,6 @@ module.exports = {
                             {
                                 title:'Updates',
                                 path:'/en/Start/Updates'
-                            },
-                            {
-                                title:'License',
-                                path:'/en/Start/License'
                             }
                         ]
                     },
@@ -272,8 +268,8 @@ module.exports = {
                                         path:'/en/Usage/Workspace/History'
                                     },
                                     {
-                                        title:'Ticket',
-                                        path:'/en/Usage/Workspace/Ticket'
+                                        title:'Workflow',
+                                        path:'/en/Usage/Workspace/Workflow'
                                     },
                                     {
                                         title:'Automatic SQL Generation',

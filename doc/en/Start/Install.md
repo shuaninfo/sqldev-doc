@@ -49,7 +49,7 @@ sh start.sh
 
 
 
-##### Visit http://应用ip地址:9000 with a browser (Chrome recommended)
+##### Visit http://ip:9000 with a browser (Chrome recommended)
 
 
 
@@ -83,7 +83,6 @@ sh start.sh
 
 
 
-![](./img/install3.png)
 
 
 
