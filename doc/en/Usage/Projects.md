@@ -39,25 +39,25 @@
 
 
 
-##### Project Data Source Management
+##### Project Instance Management
 
 > Operation.
 >
-> 1. Click the "Data Source" icon to associate/move out data sources
+> 1. Click the "Instance" icon to associate/move out instances
 > 2.
 > 2. In the pop-up box, click the "Move Out" button to move out the project
 >
 > or
 >
-> 2. In the pop-up: click "Add" button to associate the item with the data source
+> 2. In the pop-up: click "Add" button to associate the item with the instance
 
-![System - Project Data Source Management](./img/project3.png)
+![System - Project Instance Management](./img/project3.png)
 
-<center>Figure: Project data source management diagram</center>
+<center>Figure: Project instance management diagram</center>
 
 
 
-##### Work Order Flow
+##### Workflow
 
 > Default is the current group (one of the administrators of the current project) review, select multiple permission groups approval process for multi-level review, users with administrative rights in the permission group can review.
 >
@@ -69,7 +69,7 @@
 
 ![System - Audit Process](./img/project4.png)
 
-<center>Figure: Work order process setup diagram</center>
+<center>Figure: Workflow process setup diagram</center>
 
 
 
@@ -81,38 +81,26 @@
 > > Action
 > 1. Click the "Audit" button
 >
-> 2. pop-up box: open the project-specific audit, modify the project audit configuration (after opening, the configuration only works for the project)
+> 2. pop-up box: open the project-specific audit, edit the project audit configuration (after opening, the configuration only works for the project)
 
 ![System - Audit](./img/project5.png)
-
-![](./img/project6.png)
 
 <center>Figure: Audit configuration diagram</center>
 
 
+##### Edit project
 
-* Backup settings, as follows.
-
-![image-20201207172010737](./img/project7.png)
-
-<center>Figure: backup setup diagram</center>
-
-
-
-
-##### Modify project
-
-> Function: Modify the project name, modify whether the project is public or not, modify the project expiration date
+> Function: Edit the project name, edit whether the project is public or not, edit the project expiration date
 >
 > Operation.
 >
-> 1. Click the "Modify" button.
+> 1. Click the "Edit" button.
 >
 > 2. pop-up box: enter the project name, open/close whether the project is public, check whether the project expiration time is permanent or set the project expiration time, as follows.
 
-![image-20201207174908655](./img/project8.png)
+![image-20201207174908655](./img/project6.png)
 
-<center>Figure: Modify project information figure</center>
+<center>Figure: Edit project information figure</center>
 
 
 

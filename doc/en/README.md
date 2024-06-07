@@ -59,7 +59,7 @@ The problem of data privacy is solved by fine-grained permission control, which 
 
 - Support multi-project and multi-role
 
-- Support custom work order trigger scenarios and audit process
+- Support custom workflow trigger scenarios and audit process
 
 - Support for database engines: Oracle, MySQL, MongoDB, MS SQL, DB2, TDEngine, Hive, Redis, DaMeng, TIDB, ClickHouse, Greenplum, MariaDB, etc.
 

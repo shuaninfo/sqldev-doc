@@ -31,7 +31,7 @@
 ## [v2.2.59] - 2022-09-28
 
 ## Fix
-* Fix the bug that the execution of work order fails but the status is really successful.
+* Fix the bug that the execution of workflow fails but the status is really successful.
 * Fix the bug that adding comments in SQL statement causes parsing failure.
 * Fix the problem that the return of specific fields may cause the program to crash.
 * Fix the problem that mongoDB low version synchronization fails.
@@ -46,7 +46,7 @@
 * Data source supports SSH connection.
 * Audit log is added to audit management.
 * Personal Center - Security Settings - Two-step Authentication Add SMS authentication method.
-* Personal Center-Workspace, you can check personal execution/audit logs and work order records, and support downloading and exporting.
+* Personal Center-Workspace, you can check personal execution/audit logs and workflow records, and support downloading and exporting.
 
 
 ## [v2.0.18] - 2021-10-27
@@ -80,14 +80,14 @@
 * Upgrade Oracle table build statement to show full content.
 * Optimize role setting permission color display.
 * Fix the problem of database synchronization failure under some MongoDB authority scenarios.
-* Repair the bug of unresponsive open file button in work order pop-up window.
+* Repair the bug of unresponsive open file button in workflow pop-up window.
 * Fix the problem that asynchronous query results are not displayed.
 
 ## Update
 * Add the function of turning on/off two-factor authentication for login.
 * System-security settings support defining whitelist and blacklist network segments and ip addresses (CIDR).
-* MySQL work order supports data backup function.
-* Support opening work order approval policy on project work order, support query, export and asynchronous work order types. Support immediate empowerment requirements.
+* MySQL workflow supports data backup function.
+* Support opening workflow approval policy on project workflow, support query, export and asynchronous workflow types. Support immediate empowerment requirements.
 * Add the three authority mode and add the roles of system administrator, security administrator and audit administrator. The original administrator role is unchanged and upgraded to super administrator.
 * Add "Test Connection" button for new data sources.
 * Add system backup function, supporting local backup and remote backup and recovery.
@@ -100,8 +100,8 @@
 ## [v2.0.16] - 2021-05-04
 
 ## FIx
-* Fix the problem of MySQL work order execution failure.
-* Fix the problem of primary key conflict in work order query log.
+* Fix the problem of MySQL workflow execution failure.
+* Fix the problem of primary key conflict in workflow query log.
 * Fix the bug of MySQL table structure display
 * Fix the bug that policy desensitization fails in some cases.
 
@@ -109,4 +109,4 @@
 * Add the security function of two-factor authentication.
 * Add start-up banner
 * Support webhook notification for project approval
-* Support query and export through work order approval
+* Support query and export through workflow approval
