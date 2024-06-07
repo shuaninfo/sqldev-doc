@@ -200,8 +200,8 @@ module.exports = {
                         title:'Usage',
                         children:[
                             {
-                                title:'Data Source',
-                                path:'/en/Usage/DataSource'
+                                title:'Instances',
+                                path:'/en/Usage/Instances'
                             },
                             {
                                 title:'Users',
